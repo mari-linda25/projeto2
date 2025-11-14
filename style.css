@@ -3,6 +3,11 @@ body {
 }
 .cabeçalho {
 background-color: rgb(15, 8, 107);
+color: rgba(244, 246, 248, 0.106);
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
  margin-bottom: 0px;
 
 }
